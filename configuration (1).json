@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "Spotify Tensors", "tensorShape": [1000, 50], "tensorPath": "https://raw.githubusercontent.com/kcarrig/Spotify/main/output.tsv", "metadataPath": "https://raw.githubusercontent.com/kcarrig/Spotify/main/metadata.tsv"}]}
